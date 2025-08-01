@@ -18,4 +18,4 @@ The analysis also identifies the best neighborhoods to purchase property in, alo
 - **Age Group**
 
 ## 📌 Dashboard Preview
-![Property Sales](https://github.com/bijoypantu/Property-Sales-Analysis/blob/main/Property_Sales_Dashboard(Staten%20Island).png?raw=true)
+![Property Sales]()
